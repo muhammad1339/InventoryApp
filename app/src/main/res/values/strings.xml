@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sale_button_text">- SALE</string>
+    <string name="order_button_text">Order</string>
+    <string name="detailed_activity_title">Detailed Item</string>
+    <string name="product_title_string">Product Title</string>
+    <string name="product_price_string">Product Price</string>
+    <string name="product_quantity_string">Product Quantity</string>
+    <string name="product_supplier_string">Product Supplier</string>
+    <string name="product_supplier_email_string">Supplier E-mail</string>
+    <string name="action_done_string">done</string>
+    <string name="empty_view_text">There is no items in stock</string>
+    <string name="empty_instruction_text">if you are a supplier\n add your product</string>
+</resources>
